@@ -43,7 +43,7 @@
     </nav>
 </div>
 
-<div>
+<div class="main">
 
     <div class="container text-white">
 
