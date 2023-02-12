@@ -19,24 +19,24 @@
                 <nav class="navbar navbar-expand-lg justify-between w-75 m-auto">
 
 
-                    <div class="container-fluid text-white"><img class="w-25 p-3 logo" src="BlackModernBusinessLogo.png"
-                            alt=""></div>
+                   
                     <div class="container-fluid d-flex">
 
 
 
 
                         <div class="collapse navbar-collapse d-flex justify-content-end">
-                            <ul class="navbar-nav">
+                            <ul class="navbar-nav">  
+                                <li class="nav-item">
+                                    <a class="nav-link text-white" href="#aboutme">about me</a>
+                                </li>
                                 <li class="nav-item text-white">
                                     <a class="nav-link  text-white" href="#skills">my skills</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-white" href="#work">my work</a>
+                                    <a class="nav-link text-white" href="#projects">my projects</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-white" href="#about">about me</a>
-                                </li>
+                              
                             </ul>
 
                         </div>
@@ -56,13 +56,34 @@
 
                 <div class="container text-white d-flex align-items-center mt-5" id="mobile-head">
 
-                    <img src="Avatar.svg" alt="" class="w-50 ms-4 avatar">
-                    <p class="w-40">Passionate about programming and
-                        everything around it, enthusiastic about
-                        learning new things every day in this
-                        industry that has no limits, I am a person
-                        attentive to details and always try to do my job to the best of my ability.</p>
+                    <img src="Avatar.svg" alt="" class="avatar m-auto p-5">
+                 
 
+                </div>
+
+                <div class="container text-center mt-3  text-white align-items-center" id="aboutme">
+                    <h2 class="fw-bold text-white pb-3 skills">about me</h2>
+                    <p class="text-start w-50 m-auto p-2">As a <span class="">web developer</span>, I am constantly enthusiastic about exploring new possibilities and learning
+                        about the
+                        latest advancements in the industry.
+                        <br>
+                        <br>
+
+                        One of the things I love most about web development is its creative nature. <br> I enjoy the process
+                        of bringing my ideas to life through code, and I find a sense of satisfaction in seeing my work
+                        come to fruition on the screen.
+
+                        <br><br>
+
+                        In addition to my love for programming, I have a strong appreciation for graphic design.
+                         I believe that the visual aspect of web development is just as important as the functional side,
+                        and I enjoy incorporating design elements into my projects to create an engaging user
+                        experience.
+
+                        Overall, I am grateful to have found a career in web development that combines my passions for
+                        programming, design, and creativity. 
+                        <br><br>I am committed to continuing to improve my skills and
+                        staying up-to-date <br> with the latest advancements in the industry.</p>
                 </div>
 
 
@@ -71,7 +92,7 @@
 
 
                 <div class="container text-center mt-5 pt-5 text-white align-items-center" id="skills">
-                    <h2 class="fw-bold text-white mb-5 skills">my skills</h2>
+                    <h2 class="fw-bold text-white pb-3 skills">my skills</h2>
 
                     <div class="row d-flex justify-content-center">
                         <div class="col-3 ms-4 p-5 frontend text-center">
@@ -125,18 +146,18 @@
 
                         <!-- carousel -->
 
-                        <h2 class="fw-bold text-white mb-5 skills mt-5 pt-5">my works</h2>
+                        <h2 class="fw-bold text-white mb-5 skills mt-5 pt-5 pb-2">my projects</h2>
 
-                        <div class="row d-flex justify-content-center mb-5">
+                        <div class="row d-flex justify-content-center mb-5" id="projects">
                             <div class="col-4 mt-3 film-details">
 
                                 <img src="../assets/Spotify-1.jpg" alt="" class="img-fluid show">
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Spotify</h4>
-                                    <p class="mt-4">Spotify website i built using HTML & CSS</p>
-                                   
-                                    
+                                    <p class="mt-4 fs-6">Spotify website built using <br> HTML & CSS</p>
+
+
 
                                 </div>
 
@@ -150,7 +171,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Netflix</h4>
-                                    <p class="mt-4">Netflix website built using VueJS</p>
+                                    <p class="mt-4 fs-6">Netflix website built using VueJS</p>
 
                                 </div>
 
@@ -163,7 +184,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Whatsapp</h4>
-                                    <p class="mt-4">Whatsapp web clone, built using HTML, CSS & Javascript </p>
+                                    <p class="mt-4 fs-6">Whatsapp web clone, built using HTML, CSS & Javascript </p>
 
                                 </div>
 
@@ -177,7 +198,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Discord Website</h4>
-                                    <p class="mt-4">Discord website built using HTML, CSS</p>
+                                    <p class="mt-4 fs-6">Discord website built using HTML, CSS</p>
 
                                 </div>
 
@@ -191,10 +212,10 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Dc-Comics website</h4>
-                                    <p class="mt-4">DC-Comics website built using HTML, CSS, VueJS & Laravel</p>
-                                    
-                                   
-                                   
+                                    <p class="mt-4 fs-6">DC-Comics website built using HTML, CSS, VueJS & Laravel</p>
+
+
+
 
                                 </div>
 
@@ -208,7 +229,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">AVADA Shop</h4>
-                                    <p class="mt-4">AVADA website built using HTML, CSS</p>
+                                    <p class="mt-4 fs-6">AVADA website built using HTML, CSS</p>
 
                                 </div>
 
