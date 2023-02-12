@@ -220,9 +220,11 @@ a {
 
 @media only screen and (min-width: 0px) and (max-width: 900px) {
 
-    .col-3 {
+
+    .col-3, .col-4 {
         width: 80%;
         margin: 10px;
+        font-size: smaller;
     }
 
     .text {
@@ -365,9 +367,7 @@ margin: auto;
         position: relative;
         bottom:90%;
         height: 0px;
-        
-
-     
+   
          
       }
 

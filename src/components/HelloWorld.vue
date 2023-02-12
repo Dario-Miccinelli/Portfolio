@@ -134,7 +134,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Spotify</h4>
-                                    <p class="mt-5">Spotify website i built using HTML & CSS</p>
+                                    <p class="mt-4">Spotify website i built using HTML & CSS</p>
                                    
                                     
 
@@ -150,7 +150,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Netflix</h4>
-                                    <p class="mt-5">Netflix website built using VueJS</p>
+                                    <p class="mt-4">Netflix website built using VueJS</p>
 
                                 </div>
 
@@ -163,6 +163,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Whatsapp</h4>
+                                    <p class="mt-4">Whatsapp web clone, built using HTML, CSS & Javascript </p>
 
                                 </div>
 
@@ -176,6 +177,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Discord Website</h4>
+                                    <p class="mt-4">Discord website built using HTML, CSS</p>
 
                                 </div>
 
@@ -189,7 +191,9 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Dc-Comics website</h4>
-                                    <p>ciao ciao</p>
+                                    <p class="mt-4">DC-Comics website built using HTML, CSS, VueJS & Laravel</p>
+                                    
+                                   
                                    
 
                                 </div>
@@ -204,6 +208,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">AVADA Shop</h4>
+                                    <p class="mt-4">AVADA website built using HTML, CSS</p>
 
                                 </div>
 
