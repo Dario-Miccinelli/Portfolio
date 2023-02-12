@@ -201,7 +201,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Discord Website</h4>
-                                    <p class="mt-4 fs-6">Discord website built using HTML, CSS</p>
+                                    <p class="mt-3 fs-6">Discord website built using HTML, CSS</p>
 
                                 </div>
 
@@ -215,7 +215,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">Dc-Comics website</h4>
-                                    <p class="mt-4 fs-6">DC-Comics website built using HTML, CSS, VueJS & Laravel</p>
+                                    <p class="mt-3 fs-6">DC-Comics website built using HTML, CSS, VueJS & Laravel</p>
 
 
 
@@ -232,7 +232,7 @@
                                 <div class="hidden pt-2">
 
                                     <h4 class="mt-2 skills">AVADA Shop</h4>
-                                    <p class="mt-4 fs-6">AVADA website built using HTML, CSS</p>
+                                    <p class="mt-3 fs-6">AVADA website built using HTML, CSS</p>
 
                                 </div>
 
@@ -246,18 +246,18 @@
 
 
                             <div class="d-flex justify-content-center mt-3">
-                            <p class=""><i class="fas fa-paper-plane me-1 fs-5"></i><a
+                            <p class=""><i class="fas fa-paper-plane me-1 "></i><a
                                     href="mailto:dariomiccinelli@mail.com?subject=Interested in your work"
                                     class="skills">DarioMiccinelli@mail.com</a></p>
-                            <p class="ms-4"> <i class="fas fa-phone-volume fs-5"></i> <a href="tel:+393933608131"
+                            <p class=""> <i class="fas fa-phone-volume "></i> <a href="tel:+393933608131"
                                     class="skills">3933608131</a></p>
                                     
                                   
                                 </div>
                                 <div class="d-flex justify-content-center">
-                                    <p class="ms-4"> <i class="fab fa-linkedin fs-5"></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
+                                    <p class=""> <i class="fab fa-linkedin "></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
                                     class="skills">LinkedIn</a></p>
-                                    <p class="ms-4"> <i class="fab fa-github fs-5"></i> <a href="https://github.com/Dario-Miccinelli"
+                                    <p class=""> <i class="fab fa-github "></i> <a href="https://github.com/Dario-Miccinelli"
                                     class="skills">GitHub</a></p>
                                 </div>
 
