@@ -240,26 +240,28 @@
 
                         </div>
 
-                        <div class="">
+                        <div class="contatti">
                             <h2 class="fw-bold text-center mb-4 mt-5 skills">contacts</h2>
-                            <p>Feel free to contact me for anything!</p>
+                            <h6 class="mb-4">Feel free to contact me for anything!</h6>
 
 
-                            
+
                             <p class="mb-3"><i class="fas fa-paper-plane me-1 "></i><a
                                     href="mailto:dariomiccinelli@mail.com?subject=Interested in your work"
                                     class="skills">DarioMiccinelli@mail.com</a></p>
-                            <p class="mb-3  "> <i class="fas fa-phone-volume "></i> <a href="tel:+393933608131"
-                                    class="skills">3933608131</a></p>
-                                    
-                                  
-                                
-                                
-                                    <p class="mb-3"> <i class="fab fa-linkedin "></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
-                                    class="skills">LinkedIn</a></p>
-                                    <p class="mb-3"> <i class="fab fa-github fs-6"></i> <a href="https://github.com/Dario-Miccinelli"
-                                    class="skills">GitHub</a></p>
-                                
+                            <p class="mb-3">
+                                <i class="fas fa-phone-volume "></i>
+                                <a href="tel:+393933608131" class="skills">3933608131</a>
+                            </p>
+
+
+
+
+                            <p class="mb-3"> <i class="fab fa-linkedin "></i> <a
+                                    href="https://www.linkedin.com/in/dariomiccinelli/" class="skills">LinkedIn</a></p>
+                            <p class="mb-3"> <i class="fab fa-github fs-6"></i> <a
+                                    href="https://github.com/Dario-Miccinelli" class="skills">GitHub</a></p>
+
 
                         </div>
                     </div>
