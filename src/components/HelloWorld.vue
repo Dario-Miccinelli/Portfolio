@@ -240,7 +240,7 @@
 
                         </div>
 
-                        <div class="contatti mt-5 col-3 p-5 ">
+                        <div class="contatti mt-5 mb-5 col-3 p-5 ">
                             <h2 class="fw-bold text-center mb-4 mt-5 skills">contacts</h2>
                             <h6 class="mb-4">Feel free to contact me for anything!</h6>
 
