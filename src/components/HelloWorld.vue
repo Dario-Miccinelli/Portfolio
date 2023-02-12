@@ -245,17 +245,20 @@
                             <p>Feel free to contact me for anything!</p>
 
 
-                            <div class="d-flex justify-content-center mt-5">
-                            <p class="ms-4"><i class="fas fa-paper-plane me-1 fs-5"></i><a
+                            <div class="d-flex justify-content-center mt-3">
+                            <p class=""><i class="fas fa-paper-plane me-1 fs-5"></i><a
                                     href="mailto:dariomiccinelli@mail.com?subject=Interested in your work"
                                     class="skills">DarioMiccinelli@mail.com</a></p>
                             <p class="ms-4"> <i class="fas fa-phone-volume fs-5"></i> <a href="tel:+393933608131"
                                     class="skills">3933608131</a></p>
+                                    
+                                  
+                                </div>
+                                <div class="d-flex justify-content-center">
                                     <p class="ms-4"> <i class="fab fa-linkedin fs-5"></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
                                     class="skills">LinkedIn</a></p>
                                     <p class="ms-4"> <i class="fab fa-github fs-5"></i> <a href="https://github.com/Dario-Miccinelli"
                                     class="skills">GitHub</a></p>
-                                  
                                 </div>
 
                         </div>
