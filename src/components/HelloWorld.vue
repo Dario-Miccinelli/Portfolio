@@ -245,21 +245,21 @@
                             <p>Feel free to contact me for anything!</p>
 
 
-                            <div class="d-flex justify-content-center mt-3">
-                            <p class=""><i class="fas fa-paper-plane me-1 "></i><a
+                            
+                            <p class="mb-3"><i class="fas fa-paper-plane me-1 "></i><a
                                     href="mailto:dariomiccinelli@mail.com?subject=Interested in your work"
                                     class="skills">DarioMiccinelli@mail.com</a></p>
-                            <p class=""> <i class="fas fa-phone-volume "></i> <a href="tel:+393933608131"
+                            <p class="mb-3  "> <i class="fas fa-phone-volume "></i> <a href="tel:+393933608131"
                                     class="skills">3933608131</a></p>
                                     
                                   
-                                </div>
-                                <div class="d-flex justify-content-center">
-                                    <p class=""> <i class="fab fa-linkedin "></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
+                                
+                                
+                                    <p class="mb-3"> <i class="fab fa-linkedin "></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
                                     class="skills">LinkedIn</a></p>
-                                    <p class=""> <i class="fab fa-github "></i> <a href="https://github.com/Dario-Miccinelli"
+                                    <p class="mb-3"> <i class="fab fa-github fs-6"></i> <a href="https://github.com/Dario-Miccinelli"
                                     class="skills">GitHub</a></p>
-                                </div>
+                                
 
                         </div>
                     </div>
