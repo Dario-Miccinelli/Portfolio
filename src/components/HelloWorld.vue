@@ -19,14 +19,14 @@
                 <nav class="navbar navbar-expand-lg justify-between w-75 m-auto">
 
 
-                   
+
                     <div class="container-fluid d-flex">
 
 
 
 
                         <div class="collapse navbar-collapse d-flex justify-content-end">
-                            <ul class="navbar-nav">  
+                            <ul class="navbar-nav">
                                 <li class="nav-item">
                                     <a class="nav-link text-white" href="#aboutme">about me</a>
                                 </li>
@@ -36,7 +36,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link text-white" href="#projects">my projects</a>
                                 </li>
-                              
+
                             </ul>
 
                         </div>
@@ -57,33 +57,36 @@
                 <div class="container text-white d-flex align-items-center mt-5" id="mobile-head">
 
                     <img src="Avatar.svg" alt="" class="avatar m-auto p-5">
-                 
+
 
                 </div>
 
                 <div class="container text-center mt-3  text-white align-items-center" id="aboutme">
-                    <h2 class="fw-bold text-white pb-3 skills">about me</h2>
-                    <p class="text-start w-50 m-auto p-2">As a <span class="">web developer</span>, I am constantly enthusiastic about exploring new possibilities and learning
+                    <h2 class="fw-bold text-center mb-2 skills">about me</h2>
+                    <p class="text-start w-50 m-auto  aboutmetext">As a <span class="">web developer</span>, I am
+                        constantly enthusiastic about exploring new possibilities and learning
                         about the
                         latest advancements in the industry.
                         <br>
                         <br>
 
-                        One of the things I love most about web development is its creative nature. <br> I enjoy the process
+                        One of the things I love most about web development is its creative nature. <br> I enjoy the
+                        process
                         of bringing my ideas to life through code, and I find a sense of satisfaction in seeing my work
                         come to fruition on the screen.
 
                         <br><br>
 
                         In addition to my love for programming, I have a strong appreciation for graphic design.
-                         I believe that the visual aspect of web development is just as important as the functional side,
+                        I believe that the visual aspect of web development is just as important as the functional side,
                         and I enjoy incorporating design elements into my projects to create an engaging user
                         experience.
 
                         Overall, I am grateful to have found a career in web development that combines my passions for
-                        programming, design, and creativity. 
+                        programming, design, and creativity.
                         <br><br>I am committed to continuing to improve my skills and
-                        staying up-to-date <br> with the latest advancements in the industry.</p>
+                        staying up-to-date <br> with the latest advancements in the industry.
+                    </p>
                 </div>
 
 
@@ -146,7 +149,7 @@
 
                         <!-- carousel -->
 
-                        <h2 class="fw-bold text-white mb-5 skills mt-5 pt-5 pb-2">my projects</h2>
+                        <h2 class="fw-bold text-white mb-5 skills mt-5 pt-5 mb-1">my projects</h2>
 
                         <div class="row d-flex justify-content-center mb-5" id="projects">
                             <div class="col-4 mt-3 film-details">
@@ -237,9 +240,25 @@
 
                         </div>
 
+                        <div class="">
+                            <h2 class="fw-bold text-center mb-4 mt-5 skills">contacts</h2>
+                            <p>Feel free to contact me for anything!</p>
 
 
+                            <div class="d-flex justify-content-center mt-5">
+                            <p class="ms-4"><i class="fas fa-paper-plane me-1 fs-5"></i><a
+                                    href="mailto:dariomiccinelli@mail.com?subject=Interested in your work"
+                                    class="skills">DarioMiccinelli@mail.com</a></p>
+                            <p class="ms-4"> <i class="fas fa-phone-volume fs-5"></i> <a href="tel:+393933608131"
+                                    class="skills">3933608131</a></p>
+                                    <p class="ms-4"> <i class="fab fa-linkedin fs-5"></i> <a href="https://www.linkedin.com/in/dariomiccinelli/"
+                                    class="skills">LinkedIn</a></p>
+                                    <p class="ms-4"> <i class="fab fa-github fs-5"></i> <a href="https://github.com/Dario-Miccinelli"
+                                    class="skills">GitHub</a></p>
+                                  
+                                </div>
 
+                        </div>
                     </div>
 
                 </div>

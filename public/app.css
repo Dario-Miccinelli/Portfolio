@@ -100,7 +100,7 @@
 }
 
 .nav-item:hover {
-    color: violet;
+    color: rgb(32, 26, 152);
     font-size: 18px;
 }
 
@@ -222,6 +222,9 @@ a {
 
 @media only screen and (min-width: 0px) and (max-width: 900px) {
 
+    .aboutmetext {
+        font-size: 0.9rem;
+    }
 
     .col-3, .col-4 {
         width: 80%;
@@ -314,41 +317,6 @@ a {
 
     }
 }
-
-
-.carousel-item {
-   
-height: 750px;
-  
-margin: auto;
-   
-}
-
-.carousel-item img {
-   
-    height: 100%;
-    margin:auto;
-      
-    width: 100%;
-       
-    }
-
-
-    /* .hidden {
-        display: none;
-    }
-
-
-    :hover .film-details .show {
-        display: none
-   }
-    :hover .film-details .hidden {
-        display: block;
-       
-   }
-    
-     */
-
 
      .film-details {
         display: block;
