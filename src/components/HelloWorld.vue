@@ -194,7 +194,7 @@
                             </div>
 
 
-                            <div class="col-4 mt-5 film-details ">
+                            <div class="col-4 mt-3 film-details ">
 
                                 <img src="../assets/Discord-1.jpg" alt="" class="img-fluid show">
 
@@ -208,7 +208,7 @@
                             </div>
 
 
-                            <div class="col-4  mt-5 film-details">
+                            <div class="col-4  mt-3 film-details">
 
                                 <img src="../assets/DcComics 1.png" alt="" class="img-fluid show">
 
@@ -225,7 +225,7 @@
                             </div>
 
 
-                            <div class="col-4 mt-5 film-details">
+                            <div class="col-4 mt-3 film-details">
 
                                 <img src="../assets/Avada-1.png" alt="" class="img-fluid show">
 
@@ -250,7 +250,7 @@
                                     href="mailto:dariomiccinelli@mail.com?subject=Interested in your work"
                                     class="skills">DarioMiccinelli@mail.com</a></p>
                             <p class="mb-3">
-                                <i class="fas fa-phone-volume "></i>
+                                <i class="fas fa-phone-volume me-1"></i>
                                 <a href="tel:+393933608131" class="skills">3933608131</a>
                             </p>
 
