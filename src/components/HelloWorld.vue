@@ -62,8 +62,8 @@
                 </div>
 
                 <div class="container text-center mt-3  text-white align-items-center" id="aboutme">
-                    <h2 class="fw-bold text-center mb-2 skills">about me</h2>
-                    <p class="text-start w-50 m-auto  aboutmetext">As a <span class="">web developer</span>, I am
+                    <h2 class="fw-bold text-center skills">about me</h2>
+                    <p class="text-start w-50 m-auto mt-4 aboutmetext">As a <span class="">web developer</span>, I am
                         constantly enthusiastic about exploring new possibilities and learning
                         about the
                         latest advancements in the industry.
@@ -237,6 +237,16 @@
                                 </div>
 
                             </div>
+
+
+                            <a href="https://github.com/Dario-Miccinelli">
+                            <button class="w-25 mt-5 text-white graphics buttongit">
+                                
+                                    Check my other projects on my GitHub
+                                <i class="fab fa-github"></i>
+                            </button>
+                        </a>
+
 
                         </div>
 
