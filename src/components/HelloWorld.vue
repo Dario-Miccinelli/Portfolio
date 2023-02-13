@@ -62,7 +62,7 @@
                 </div>
 
                 <div class="container text-center mt-3  text-white align-items-center" id="aboutme">
-                    <h2 class="fw-bold text-center skills">about me</h2>
+                    <h2 class="fw-bold text-center skills aboutmetitle">about me</h2>
                     <p class="text-start w-50 m-auto mt-4 aboutmetext">As a <span class="">web developer</span>, I am
                         constantly enthusiastic about exploring new possibilities and learning
                         about the

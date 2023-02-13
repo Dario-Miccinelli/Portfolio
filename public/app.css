@@ -227,6 +227,10 @@ a {
         border: none;
     }
 
+    .aboutmetitle {
+        margin-bottom: 1.5rem;
+    }
+
     .aboutmetext {
         font-size: 0.9rem;
         width: 90%!important;
